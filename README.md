@@ -9,7 +9,7 @@
   - css +flexbox : https://nagsupratim.github.io/backroads-tour/
   - css +grid-1  : 
   - css +grid-2  : 
-  - allin one    : 
+  - all in one    : 
   _______________________________________________________________
   - raw-js : 
   _______________________________________________________________
