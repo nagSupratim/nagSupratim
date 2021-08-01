@@ -14,7 +14,7 @@
   - raw-js : 
   _______________________________________________________________
   - react beginner-1 (non-responsive) : https://nagsupratim.github.io/dunder-wiki/
-  - react beginner-2 (responsive)     : https://react-http-81099.web.app/
+  - react beginner-2 (responsive)     : https://react-http-81099.firebaseapp.com/quotes
   _______________________________________________________________
   - node beginner : https://nagsupra-wather-app.herokuapp.com/
 
