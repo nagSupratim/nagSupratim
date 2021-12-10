@@ -15,6 +15,7 @@
   - https://nagsupratim.github.io/guess-my-number/
   - https://nagsupratim.github.io/pig-game/
   - https://mapty-nag.netlify.app/
+  - forkify-nagsupra.netlify.app/
   _______________________________________________________________
   react 
   - https://nagsupratim.github.io/dunder-wiki/
