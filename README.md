@@ -8,22 +8,24 @@
 - My Projects
   _______________________________________________________________
   css : 
-  - https://tea-station-nagsupratim.netlify.app/
-  - https://nagsupratim.github.io/backroads-tour/ 
+  - Marketing Website 1 - https://tea-station-nagsupratim.netlify.app/
+  - Marketing Website 2 - https://nagsupratim.github.io/backroads-tour/ 
   _______________________________________________________________
   js : 
-  - https://nagsupratim.github.io/guess-my-number/
-  - https://nagsupratim.github.io/pig-game/
-  - https://mapty-nag.netlify.app/
-  - https://forkify-nagsupra.netlify.app/
+  - Number Game 1 - https://nagsupratim.github.io/guess-my-number/
+  - Number Game 2 - https://nagsupratim.github.io/pig-game/
+  - Mapty Workout Tracker - https://mapty-nag.netlify.app/
+  - Forkify Recipe App - https://forkify-nagsupra.netlify.app/
   _______________________________________________________________
   react 
-  - https://nagsupratim.github.io/dunder-wiki/
-  - https://react-http-81099.firebaseapp.com/quotes
-  - https://nagcrm-admin.netlify.app/
+  - Blog App - https://nagsupratim-blog-app.netlify.app/
+  - Degree of Separation - https://nagsupra-degree-of-separation.netlify.app/
+  - The Office Wiki - https://nagsupratim.github.io/dunder-wiki/
+  - Quotes App - https://react-http-81099.firebaseapp.com/quotes
+  - CRM Admin Dashboard - https://nagcrm-admin.netlify.app/
   _______________________________________________________________
   node 
-  - https://nagsupra-wather-app.herokuapp.com/
+  - Live Weather App - https://nagsupra-wather-app.herokuapp.com/
 
 <!---
 nagSupratim/nagSupratim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
