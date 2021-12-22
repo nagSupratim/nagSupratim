@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me : supratimnag1997@gmail.com
 - My Portfolio : https://nagsupratim.netlify.app/
-- Sabdbox : https://codesandbox.io/u/nagSupratim
+- Sandbox : https://codesandbox.io/u/nagSupratim
 
 - My Projects
   _______________________________________________________________
